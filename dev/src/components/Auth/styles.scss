@@ -1,0 +1,26 @@
+.auth {
+    display: flex;
+    justify-content: center;
+
+    .auth-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        position: relative;
+        width: 300px;
+        height: 100px;
+        padding: 50px;
+        border: 1px solid black;
+
+        .close-button {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        .input-wrapper {
+            display: flex;
+            padding-bottom: 10px;
+        }
+    }
+}

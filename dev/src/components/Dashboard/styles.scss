@@ -1,0 +1,40 @@
+.currency-tab{
+    width:80%;
+    margin:0 auto;
+    border: 1px solid #000;
+    .currency-row{
+      display:flex;
+      height : 25px;
+      &:not(:first-child) {
+        border-top: 1px solid #000;
+      }
+      & > *:not(:first-child){
+        border-left:1px solid #000000;
+      }
+      & > * {
+       flex-grow: 0;
+       flex-shrink: 0;   
+       font-size : 18px;
+       line-height: 25px;
+       text-align:center;
+       
+      }
+    }
+    .name{
+      width: calc((100% - 200px) * (40 / 100));
+    }
+    .rate{
+      width: calc((100% - 200px) * (25 / 100));
+    }
+    .inverse-rate{
+      width: calc((100% - 200px) * (25 / 100));
+      
+    }
+    .quantity{
+        width: calc((100% - 200px) * (10 / 100));
+        
+    }
+    .cta{
+      width: 200px;
+    }
+}

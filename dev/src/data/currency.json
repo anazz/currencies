@@ -1,5 +1,6 @@
 {
-    "eur": {
+    "currencies": [
+    {
     "code": "EUR",
     "alphaCode": "EUR",
     "numericCode": "978",
@@ -8,7 +9,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 1.1285378571433
     },
-    "gbp": {
+    {
     "code": "GBP",
     "alphaCode": "GBP",
     "numericCode": "826",
@@ -17,7 +18,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 1.3216244601277
     },
-    "cad": {
+    {
     "code": "CAD",
     "alphaCode": "CAD",
     "numericCode": "124",
@@ -26,7 +27,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.78640978403908
     },
-    "jpy": {
+    {
     "code": "JPY",
     "alphaCode": "JPY",
     "numericCode": "392",
@@ -35,7 +36,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0088013285784707
     },
-    "aud": {
+    {
     "code": "AUD",
     "alphaCode": "AUD",
     "numericCode": "036",
@@ -44,7 +45,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.71548480893034
     },
-    "chf": {
+    {
     "code": "CHF",
     "alphaCode": "CHF",
     "numericCode": "756",
@@ -53,7 +54,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 1.0824071416615
     },
-    "xcd": {
+    {
     "code": "XCD",
     "alphaCode": "XCD",
     "numericCode": "951",
@@ -62,7 +63,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.36718272311493
     },
-    "mwk": {
+    {
     "code": "MWK",
     "alphaCode": "MWK",
     "numericCode": "454",
@@ -71,7 +72,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0012189693545626
     },
-    "gtq": {
+    {
     "code": "GTQ",
     "alphaCode": "GTQ",
     "numericCode": "320",
@@ -80,7 +81,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.12881845085235
     },
-    "kwd": {
+    {
     "code": "KWD",
     "alphaCode": "KWD",
     "numericCode": "414",
@@ -89,7 +90,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 3.2981291614944
     },
-    "czk": {
+    {
     "code": "CZK",
     "alphaCode": "CZK",
     "numericCode": "203",
@@ -98,7 +99,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.044439821419642
     },
-    "pgk": {
+    {
     "code": "PGK",
     "alphaCode": "PGK",
     "numericCode": "598",
@@ -107,7 +108,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.28487551164904
     },
-    "uah": {
+    {
     "code": "UAH",
     "alphaCode": "UAH",
     "numericCode": "980",
@@ -116,7 +117,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.037005023827836
     },
-    "etb": {
+    {
     "code": "ETB",
     "alphaCode": "ETB",
     "numericCode": "230",
@@ -125,7 +126,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.02047105436936
     },
-    "gmd": {
+    {
     "code": "GMD",
     "alphaCode": "GMD",
     "numericCode": "270",
@@ -134,7 +135,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.018905764668476
     },
-    "awg": {
+    {
     "code": "AWG",
     "alphaCode": "AWG",
     "numericCode": "533",
@@ -143,7 +144,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.5502482451635
     },
-    "mmk": {
+    {
     "code": "MMK",
     "alphaCode": "MMK",
     "numericCode": "104",
@@ -152,7 +153,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0005593464915499
     },
-    "mvr": {
+    {
     "code": "MVR",
     "alphaCode": "MVR",
     "numericCode": "462",
@@ -161,7 +162,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.064421454251963
     },
-    "sek": {
+    {
     "code": "SEK",
     "alphaCode": "SEK",
     "numericCode": "752",
@@ -170,7 +171,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.11015159992631
     },
-    "mad": {
+    {
     "code": "MAD",
     "alphaCode": "MAD",
     "numericCode": "504",
@@ -179,7 +180,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.10889492342868
     },
-    "ron": {
+    {
     "code": "RON",
     "alphaCode": "RON",
     "numericCode": "946",
@@ -188,7 +189,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.22774240386267
     },
-    "byn": {
+    {
     "code": "BYN",
     "alphaCode": "BYN",
     "numericCode": "933",
@@ -197,7 +198,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.39605167022323
     },
-    "rsd": {
+    {
     "code": "RSD",
     "alphaCode": "RSD",
     "numericCode": "941",
@@ -206,7 +207,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0097111654173142
     },
-    "bsd": {
+    {
     "code": "BSD",
     "alphaCode": "BSD",
     "numericCode": "044",
@@ -215,7 +216,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.99567099567095
     },
-    "djf": {
+    {
     "code": "DJF",
     "alphaCode": "DJF",
     "numericCode": "262",
@@ -224,7 +225,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0055937094920148
     },
-    "sll": {
+    {
     "code": "SLL",
     "alphaCode": "SLL",
     "numericCode": "694",
@@ -233,7 +234,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.000089515004769241
     },
-    "kes": {
+    {
     "code": "KES",
     "alphaCode": "KES",
     "numericCode": "404",
@@ -242,7 +243,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0088248098417588
     },
-    "bhd": {
+    {
     "code": "BHD",
     "alphaCode": "BHD",
     "numericCode": "048",
@@ -251,7 +252,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 2.6509354248217
     },
-    "omr": {
+    {
     "code": "OMR",
     "alphaCode": "OMR",
     "numericCode": "512",
@@ -260,7 +261,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 2.5937740532989
     },
-    "rub": {
+    {
     "code": "RUB",
     "alphaCode": "RUB",
     "numericCode": "643",
@@ -269,7 +270,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.01360856426351
     },
-    "lyd": {
+    {
     "code": "LYD",
     "alphaCode": "LYD",
     "numericCode": "434",
@@ -278,7 +279,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.21878347910321
     },
-    "clp": {
+    {
     "code": "CLP",
     "alphaCode": "CLP",
     "numericCode": "152",
@@ -287,7 +288,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0011822186738925
     },
-    "fjd": {
+    {
     "code": "FJD",
     "alphaCode": "FJD",
     "numericCode": "242",
@@ -296,7 +297,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.46672536503047
     },
-    "cdf": {
+    {
     "code": "CDF",
     "alphaCode": "CDF",
     "numericCode": "976",
@@ -305,7 +306,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00049771320957761
     },
-    "mzn": {
+    {
     "code": "MZN",
     "alphaCode": "MZN",
     "numericCode": "943",
@@ -314,7 +315,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.015530608750948
     },
-    "ugx": {
+    {
     "code": "UGX",
     "alphaCode": "UGX",
     "numericCode": "800",
@@ -323,7 +324,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0002793063810013
     },
-    "bdt": {
+    {
     "code": "BDT",
     "alphaCode": "BDT",
     "numericCode": "050",
@@ -332,7 +333,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.011715887504868
     },
-    "qar": {
+    {
     "code": "QAR",
     "alphaCode": "QAR",
     "numericCode": "634",
@@ -341,7 +342,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.27424629888137
     },
-    "mxn": {
+    {
     "code": "MXN",
     "alphaCode": "MXN",
     "numericCode": "484",
@@ -350,7 +351,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.047770369489697
     },
-    "amd": {
+    {
     "code": "AMD",
     "alphaCode": "AMD",
     "numericCode": "051",
@@ -359,7 +360,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0020628651059657
     },
-    "htg": {
+    {
     "code": "HTG",
     "alphaCode": "HTG",
     "numericCode": "332",
@@ -368,7 +369,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0099276977841281
     },
-    "lrd": {
+    {
     "code": "LRD",
     "alphaCode": "LRD",
     "numericCode": "430",
@@ -377,7 +378,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0070193460023972
     },
-    "sdg": {
+    {
     "code": "SDG",
     "alphaCode": "SDG",
     "numericCode": "938",
@@ -386,7 +387,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0022745615965955
     },
-    "top": {
+    {
     "code": "TOP",
     "alphaCode": "TOP",
     "numericCode": "776",
@@ -395,7 +396,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.43466138381393
     },
-    "vuv": {
+    {
     "code": "VUV",
     "alphaCode": "VUV",
     "numericCode": "548",
@@ -404,7 +405,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0087976618485094
     },
-    "hkd": {
+    {
     "code": "HKD",
     "alphaCode": "HKD",
     "numericCode": "344",
@@ -413,7 +414,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.12821947895485
     },
-    "thb": {
+    {
     "code": "THB",
     "alphaCode": "THB",
     "numericCode": "764",
@@ -422,7 +423,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.029817643902161
     },
-    "xaf": {
+    {
     "code": "XAF",
     "alphaCode": "XAF",
     "numericCode": "950",
@@ -431,7 +432,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0017134659275374
     },
-    "mdl": {
+    {
     "code": "MDL",
     "alphaCode": "MDL",
     "numericCode": "498",
@@ -440,7 +441,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.056601527114193
     },
-    "uyu": {
+    {
     "code": "UYU",
     "alphaCode": "UYU",
     "numericCode": "858",
@@ -449,7 +450,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.022576694901208
     },
-    "ttd": {
+    {
     "code": "TTD",
     "alphaCode": "TTD",
     "numericCode": "780",
@@ -458,7 +459,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.14645241763886
     },
-    "lak": {
+    {
     "code": "LAK",
     "alphaCode": "LAK",
     "numericCode": "418",
@@ -467,7 +468,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00009098246386382
     },
-    "bwp": {
+    {
     "code": "BWP",
     "alphaCode": "BWP",
     "numericCode": "072",
@@ -476,7 +477,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.08523491574339
     },
-    "jod": {
+    {
     "code": "JOD",
     "alphaCode": "JOD",
     "numericCode": "400",
@@ -485,7 +486,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 1.4089079679519
     },
-    "bgn": {
+    {
     "code": "BGN",
     "alphaCode": "BGN",
     "numericCode": "975",
@@ -494,7 +495,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.57647022392294
     },
-    "vnd": {
+    {
     "code": "VND",
     "alphaCode": "VND",
     "numericCode": "704",
@@ -503,7 +504,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.000043810714021444
     },
-    "uzs": {
+    {
     "code": "UZS",
     "alphaCode": "UZS",
     "numericCode": "860",
@@ -512,7 +513,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.000093275426542774
     },
-    "mga": {
+    {
     "code": "MGA",
     "alphaCode": "MGA",
     "numericCode": "969",
@@ -521,7 +522,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00025020177562551
     },
-    "nio": {
+    {
     "code": "NIO",
     "alphaCode": "NIO",
     "numericCode": "558",
@@ -530,7 +531,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.028273045222198
     },
-    "cve": {
+    {
     "code": "CVE",
     "alphaCode": "CVE",
     "numericCode": "132",
@@ -539,7 +540,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.010149925404163
     },
-    "aoa": {
+    {
     "code": "AOA",
     "alphaCode": "AOA",
     "numericCode": "973",
@@ -548,7 +549,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0017120356103408
     },
-    "khr": {
+    {
     "code": "KHR",
     "alphaCode": "KHR",
     "numericCode": "116",
@@ -557,7 +558,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00024457651576296
     },
-    "nok": {
+    {
     "code": "NOK",
     "alphaCode": "NOK",
     "numericCode": "578",
@@ -566,7 +567,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.11132219631824
     },
-    "lkr": {
+    {
     "code": "LKR",
     "alphaCode": "LKR",
     "numericCode": "144",
@@ -575,7 +576,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0049351713672122
     },
-    "pln": {
+    {
     "code": "PLN",
     "alphaCode": "PLN",
     "numericCode": "985",
@@ -584,7 +585,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.24433395500359
     },
-    "pen": {
+    {
     "code": "PEN",
     "alphaCode": "PEN",
     "numericCode": "604",
@@ -593,7 +594,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.24570500453475
     },
-    "iqd": {
+    {
     "code": "IQD",
     "alphaCode": "IQD",
     "numericCode": "368",
@@ -602,7 +603,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00068909929085839
     },
-    "stn": {
+    {
     "code": "STN",
     "alphaCode": "STN",
     "numericCode": "930",
@@ -611,7 +612,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.045417858977182
     },
-    "xpf": {
+    {
     "code": "XPF",
     "alphaCode": "XPF",
     "numericCode": "953",
@@ -620,7 +621,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0094164404333894
     },
-    "hnl": {
+    {
     "code": "HNL",
     "alphaCode": "HNL",
     "numericCode": "340",
@@ -629,7 +630,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.04121114290606
     },
-    "scr": {
+    {
     "code": "SCR",
     "alphaCode": "SCR",
     "numericCode": "690",
@@ -638,7 +639,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.076283415266465
     },
-    "dop": {
+    {
     "code": "DOP",
     "alphaCode": "DOP",
     "numericCode": "214",
@@ -647,7 +648,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.017610734568721
     },
-    "nzd": {
+    {
     "code": "NZD",
     "alphaCode": "NZD",
     "numericCode": "554",
@@ -656,7 +657,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.67838226947199
     },
-    "hrk": {
+    {
     "code": "HRK",
     "alphaCode": "HRK",
     "numericCode": "191",
@@ -665,7 +666,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.14977929866583
     },
-    "dzd": {
+    {
     "code": "DZD",
     "alphaCode": "DZD",
     "numericCode": "012",
@@ -674,7 +675,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0072530616839021
     },
-    "ars": {
+    {
     "code": "ARS",
     "alphaCode": "ARS",
     "numericCode": "032",
@@ -683,7 +684,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0098394516661
     },
-    "bnd": {
+    {
     "code": "BND",
     "alphaCode": "BND",
     "numericCode": "096",
@@ -692,7 +693,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.72964511947566
     },
-    "kmf": {
+    {
     "code": "KMF",
     "alphaCode": "KMF",
     "numericCode": "174",
@@ -701,7 +702,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0022701592193118
     },
-    "lsl": {
+    {
     "code": "LSL",
     "alphaCode": "LSL",
     "numericCode": "426",
@@ -710,7 +711,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.063076283415266
     },
-    "tzs": {
+    {
     "code": "TZS",
     "alphaCode": "TZS",
     "numericCode": "834",
@@ -719,7 +720,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00043216670335315
     },
-    "bbd": {
+    {
     "code": "BBD",
     "alphaCode": "BBD",
     "numericCode": "052",
@@ -728,7 +729,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.49937301181709
     },
-    "ang": {
+    {
     "code": "ANG",
     "alphaCode": "ANG",
     "numericCode": "532",
@@ -737,7 +738,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.55696348019862
     },
-    "pkr": {
+    {
     "code": "PKR",
     "alphaCode": "PKR",
     "numericCode": "586",
@@ -746,7 +747,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0057210465653666
     },
-    "krw": {
+    {
     "code": "KRW",
     "alphaCode": "KRW",
     "numericCode": "410",
@@ -755,7 +756,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00084711465382916
     },
-    "azn": {
+    {
     "code": "AZN",
     "alphaCode": "AZN",
     "numericCode": "944",
@@ -764,7 +765,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.59225429278828
     },
-    "crc": {
+    {
     "code": "CRC",
     "alphaCode": "CRC",
     "numericCode": "188",
@@ -773,7 +774,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0015659708013615
     },
-    "jmd": {
+    {
     "code": "JMD",
     "alphaCode": "JMD",
     "numericCode": "388",
@@ -782,7 +783,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.006432362364566
     },
-    "ssp": {
+    {
     "code": "SSP",
     "alphaCode": "SSP",
     "numericCode": "728",
@@ -791,7 +792,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.002411279868907
     },
-    "mru": {
+    {
     "code": "MRU",
     "alphaCode": "MRU",
     "numericCode": "929",
@@ -800,7 +801,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.027441485068604
     },
-    "mnt": {
+    {
     "code": "MNT",
     "alphaCode": "MNT",
     "numericCode": "496",
@@ -809,7 +810,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00034754322889916
     },
-    "brl": {
+    {
     "code": "BRL",
     "alphaCode": "BRL",
     "numericCode": "986",
@@ -818,7 +819,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.17911300230037
     },
-    "egp": {
+    {
     "code": "EGP",
     "alphaCode": "EGP",
     "numericCode": "818",
@@ -827,7 +828,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.063607778946863
     },
-    "sgd": {
+    {
     "code": "SGD",
     "alphaCode": "SGD",
     "numericCode": "702",
@@ -836,7 +837,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.73237075168764
     },
-    "zar": {
+    {
     "code": "ZAR",
     "alphaCode": "ZAR",
     "numericCode": "710",
@@ -845,7 +846,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.062551069035392
     },
-    "kgs": {
+    {
     "code": "KGS",
     "alphaCode": "KGS",
     "numericCode": "417",
@@ -854,7 +855,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.011858745853693
     },
-    "pyg": {
+    {
     "code": "PYG",
     "alphaCode": "PYG",
     "numericCode": "600",
@@ -863,7 +864,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00014564770390679
     },
-    "srd": {
+    {
     "code": "SRD",
     "alphaCode": "SRD",
     "numericCode": "968",
@@ -872,7 +873,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.046200503827622
     },
-    "ghs": {
+    {
     "code": "GHS",
     "alphaCode": "GHS",
     "numericCode": "936",
@@ -881,7 +882,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.17154596815615
     },
-    "cup": {
+    {
     "code": "CUP",
     "alphaCode": "CUP",
     "numericCode": "192",
@@ -890,7 +891,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.99567099567095
     },
-    "dkk": {
+    {
     "code": "DKK",
     "alphaCode": "DKK",
     "numericCode": "208",
@@ -899,7 +900,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.15161621635067
     },
-    "inr": {
+    {
     "code": "INR",
     "alphaCode": "INR",
     "numericCode": "356",
@@ -908,7 +909,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.013205104332811
     },
-    "try": {
+    {
     "code": "TRY",
     "alphaCode": "TRY",
     "numericCode": "949",
@@ -917,7 +918,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.071947856077196
     },
-    "twd": {
+    {
     "code": "TWD",
     "alphaCode": "TWD",
     "numericCode": "901",
@@ -926,7 +927,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.036070085738073
     },
-    "tmt": {
+    {
     "code": "TMT",
     "alphaCode": "TMT",
     "numericCode": "934",
@@ -935,7 +936,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.28734546617665
     },
-    "afn": {
+    {
     "code": "AFN",
     "alphaCode": "AFN",
     "numericCode": "971",
@@ -944,7 +945,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.010173893902707
     },
-    "sbd": {
+    {
     "code": "SBD",
     "alphaCode": "SBD",
     "numericCode": "090",
@@ -953,7 +954,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.1236089710666
     },
-    "zmw": {
+    {
     "code": "ZMW",
     "alphaCode": "ZMW",
     "numericCode": "967",
@@ -962,7 +963,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0570597011275
     },
-    "yer": {
+    {
     "code": "YER",
     "alphaCode": "YER",
     "numericCode": "886",
@@ -971,7 +972,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0039802382175264
     },
-    "lbp": {
+    {
     "code": "LBP",
     "alphaCode": "LBP",
     "numericCode": "422",
@@ -980,7 +981,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00066627011069615
     },
-    "huf": {
+    {
     "code": "HUF",
     "alphaCode": "HUF",
     "numericCode": "348",
@@ -989,7 +990,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0030829097671742
     },
-    "ngn": {
+    {
     "code": "NGN",
     "alphaCode": "NGN",
     "numericCode": "566",
@@ -998,7 +999,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0024318493918356
     },
-    "irr": {
+    {
     "code": "IRR",
     "alphaCode": "IRR",
     "numericCode": "364",
@@ -1007,7 +1008,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.000023953875913872
     },
-    "svc": {
+    {
     "code": "SVC",
     "alphaCode": "SVC",
     "numericCode": "222",
@@ -1016,7 +1017,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.11375253748135
     },
-    "mkd": {
+    {
     "code": "MKD",
     "alphaCode": "MKD",
     "numericCode": "807",
@@ -1025,7 +1026,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.018184263946975
     },
-    "bif": {
+    {
     "code": "BIF",
     "alphaCode": "BIF",
     "numericCode": "108",
@@ -1034,7 +1035,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00049991439821949
     },
-    "all": {
+    {
     "code": "ALL",
     "alphaCode": "ALL",
     "numericCode": "008",
@@ -1043,7 +1044,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0092829016557829
     },
-    "mur": {
+    {
     "code": "MUR",
     "alphaCode": "MUR",
     "numericCode": "480",
@@ -1052,7 +1053,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.022745615965955
     },
-    "ves": {
+    {
     "code": "VES",
     "alphaCode": "VES",
     "numericCode": "928",
@@ -1061,7 +1062,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.21585164149915
     },
-    "npr": {
+    {
     "code": "NPR",
     "alphaCode": "NPR",
     "numericCode": "524",
@@ -1070,7 +1071,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0082493501854514
     },
-    "isk": {
+    {
     "code": "ISK",
     "alphaCode": "ISK",
     "numericCode": "352",
@@ -1079,7 +1080,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0076287582049132
     },
-    "gip": {
+    {
     "code": "GIP",
     "alphaCode": "GIP",
     "numericCode": "292",
@@ -1088,7 +1089,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 1.3205994786357
     },
-    "gel": {
+    {
     "code": "GEL",
     "alphaCode": "GEL",
     "numericCode": "981",
@@ -1097,7 +1098,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.32267605291878
     },
-    "bzd": {
+    {
     "code": "BZD",
     "alphaCode": "BZD",
     "numericCode": "084",
@@ -1106,7 +1107,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.49404456184117
     },
-    "gnf": {
+    {
     "code": "GNF",
     "alphaCode": "GNF",
     "numericCode": "324",
@@ -1115,7 +1116,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00010492332526231
     },
-    "szl": {
+    {
     "code": "SZL",
     "alphaCode": "SZL",
     "numericCode": "748",
@@ -1124,7 +1125,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.063076283415266
     },
-    "sos": {
+    {
     "code": "SOS",
     "alphaCode": "SOS",
     "numericCode": "706",
@@ -1133,7 +1134,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0017215740944554
     },
-    "aed": {
+    {
     "code": "AED",
     "alphaCode": "AED",
     "numericCode": "784",
@@ -1142,7 +1143,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.27345536474075
     },
-    "php": {
+    {
     "code": "PHP",
     "alphaCode": "PHP",
     "numericCode": "608",
@@ -1151,7 +1152,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.019863486917271
     },
-    "ils": {
+    {
     "code": "ILS",
     "alphaCode": "ILS",
     "numericCode": "376",
@@ -1160,7 +1161,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.32273770916877
     },
-    "mro": {
+    {
     "code": "MRO",
     "alphaCode": "MRO",
     "numericCode": "478",
@@ -1169,7 +1170,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.027578129216818
     },
-    "cop": {
+    {
     "code": "COP",
     "alphaCode": "COP",
     "numericCode": "170",
@@ -1178,7 +1179,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0002555782189372
     },
-    "gyd": {
+    {
     "code": "GYD",
     "alphaCode": "GYD",
     "numericCode": "328",
@@ -1187,7 +1188,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0047572578081053
     },
-    "rwf": {
+    {
     "code": "RWF",
     "alphaCode": "RWF",
     "numericCode": "646",
@@ -1196,7 +1197,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00096094113043266
     },
-    "ern": {
+    {
     "code": "ERN",
     "alphaCode": "ERN",
     "numericCode": "232",
@@ -1205,7 +1206,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.066060116907573
     },
-    "wst": {
+    {
     "code": "WST",
     "alphaCode": "WST",
     "numericCode": "882",
@@ -1214,7 +1215,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.37960721011568
     },
-    "cny": {
+    {
     "code": "CNY",
     "alphaCode": "CNY",
     "numericCode": "156",
@@ -1223,7 +1224,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.15702135037844
     },
-    "sar": {
+    {
     "code": "SAR",
     "alphaCode": "SAR",
     "numericCode": "682",
@@ -1232,7 +1233,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.26651460435768
     },
-    "myr": {
+    {
     "code": "MYR",
     "alphaCode": "MYR",
     "numericCode": "458",
@@ -1241,7 +1242,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.2379302820153
     },
-    "kzt": {
+    {
     "code": "KZT",
     "alphaCode": "KZT",
     "numericCode": "398",
@@ -1250,7 +1251,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0022920591143663
     },
-    "pab": {
+    {
     "code": "PAB",
     "alphaCode": "PAB",
     "numericCode": "590",
@@ -1259,7 +1260,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.99783080260302
     },
-    "nad": {
+    {
     "code": "NAD",
     "alphaCode": "NAD",
     "numericCode": "516",
@@ -1268,7 +1269,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.063051825763692
     },
-    "syp": {
+    {
     "code": "SYP",
     "alphaCode": "SYP",
     "numericCode": "760",
@@ -1277,7 +1278,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00039132242522073
     },
-    "mop": {
+    {
     "code": "MOP",
     "alphaCode": "MOP",
     "numericCode": "446",
@@ -1286,7 +1287,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.12387800523394
     },
-    "bam": {
+    {
     "code": "BAM",
     "alphaCode": "BAM",
     "numericCode": "977",
@@ -1295,7 +1296,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.57311614938735
     },
-    "idr": {
+    {
     "code": "IDR",
     "alphaCode": "IDR",
     "numericCode": "360",
@@ -1304,7 +1305,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.00006948857456506
     },
-    "tnd": {
+    {
     "code": "TND",
     "alphaCode": "TND",
     "numericCode": "788",
@@ -1313,7 +1314,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.34827415219999
     },
-    "xof": {
+    {
     "code": "XOF",
     "alphaCode": "XOF",
     "numericCode": "952",
@@ -1322,7 +1323,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.0017132958765053
     },
-    "tjs": {
+    {
     "code": "TJS",
     "alphaCode": "TJS",
     "numericCode": "972",
@@ -1331,7 +1332,7 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.089032715715543
     },
-    "bob": {
+    {
     "code": "BOB",
     "alphaCode": "BOB",
     "numericCode": "068",
@@ -1340,4 +1341,5 @@
     "date": "Sun, 12 Dec 2021 11:55:01 GMT",
     "inverseRate": 0.14499556309151
     }
-    }
+]
+}

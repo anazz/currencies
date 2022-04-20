@@ -1,0 +1,51 @@
+
+.currency-tab{
+  width:80%;
+  margin:0 auto;
+  border: 1px solid #000;
+  .currency-row{
+    display:flex;
+    height : 25px;
+    &:not(:first-child) {
+      border-top: 1px solid #000;
+    }
+    & > *:not(:first-child){
+      border-left:1px solid #000000;
+    }
+    & > * {
+     font-size : 18px;
+     line-height: 25px;
+     text-align:center;
+    }
+  }
+  .name{
+    width: calc((100% - 200px) * (50 / 100));
+  }
+  .rate{
+    width: calc((100% - 200px) * (25 / 100));
+  }
+  .inverse-rate{
+    width: calc((100% - 200px) * (25 / 100));
+    
+  }
+  .cta{
+    width: 200px;
+  }
+  .input-number {
+    width: 50px;
+    margin-left: 5px;
+  }
+}
+
+.box{
+  width:40px;
+  height:40px;
+  border: 1px solid black;
+  background-color: red;
+  &.on {
+    background-color: green;
+  }
+}
+
+
+
