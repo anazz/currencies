@@ -1,0 +1,61 @@
+.tab{
+    margin:0 auto;
+    border: 1px solid #000;
+    .currency-row{
+      display:flex;
+      height : 25px;
+      &:not(:first-child) {
+        border-top: 1px solid #000;
+      }
+      & > *:not(:first-child){
+        border-left:1px solid #000000;
+      }
+      & > * {
+       font-size : 18px;
+       line-height: 25px;
+       text-align:center;
+      }
+    }
+    .cell{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      &:not(.cta){
+        flex-grow:1;
+      }
+    }
+    // .title .cell:hover .triangle{
+    //   &.down{
+    //     border-top: 10px solid green;
+    //   }
+    // }
+    .title .cell:hover {
+      &.up {
+        .triangle{
+          &.up {
+            border-bottom: 10px solid green; 
+          }
+        }
+      }
+      &.down {
+        .triangle{
+          &.down {
+            border-top: 10px solid green; 
+          }
+        }
+      }
+    }  
+    .triangle{
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      &.up {
+        margin-left: 5px;
+        border-bottom: 10px solid lightgray;
+      }
+      &.down {
+        border-top: 10px solid lightgray;
+      }
+    }
+  }

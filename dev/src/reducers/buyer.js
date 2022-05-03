@@ -15,36 +15,42 @@ const initialState = {
 const reducer = (state = initialState, action = {}) => {
     switch (action.type) {
         case SELL_CTA :{
-            let newWallet = state.wallet;
+            let newWallet = [...state.wallet];
             
-            newWallet.forEach(element => {
-                if (element.name == action.name) {
-                    element.quantity -= action.quantity;
-                } 
-            });
+            for(let i = 0; i < newWallet.length; i++){
+                if(newWallet[i].name == action.name) {
+                    newWallet[i].quantity -= action.quantity;
+                    if (newWallet[i].quantity === 0){
+                        console.log('newWallet1', newWallet);
+                        newWallet = [...newWallet].splice(i, 1);
+                        console.log('newWallet2', newWallet);
+                    }
+                    break;
+                }
+            };
             return{
                 ...state,  
                 wallet: newWallet,
             }
         }
         case BUY_CTA :{
-            let newWallet = state.wallet;
-
-            //let existingCur = newWallet.find(elem => elem.name == action.currency.name);
-            //console.log(existingCur);
-            
+            let newWallet = [...state.wallet];
             let indicator = false;
-            newWallet.forEach(element => {
-                if (element.name == action.currency.name) {
-                    element.quantity += action.currency.quantity;
-                    indicator = true;
-                } 
-            });
-            if(indicator == false) {
-                let newCurrency = {...action.currency};
-                newWallet.push(newCurrency);
+            for (let i = 0; i < newWallet.length; i++) {
+                if (newWallet[i].name == action.name) {
+                  newWallet[i].quantity += action.quantity;
+                  indicator = true;
+                  break;
+                }
             }
-            
+            if(indicator == false) {
+                newWallet.push({
+                    name : action.name, 
+                    rate : action.rate, 
+                    inverseRate : action.inverseRate ,
+                    quantity: action.quantity,
+                });
+            }
             return{
             ...state,  
             wallet: newWallet,

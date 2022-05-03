@@ -6,28 +6,24 @@ import "./styles.scss";
 
 const CurrencyLine = ({currency}) => {
   const dispatch = useDispatch();
-
+  
   const [quantity,setQuantity] = useState(1);
 
   const changeQuantity = (e) => {
-    setQuantity(e.target.value);
+    setQuantity(Number(e.target.value) > 0 ? Number(e.target.value) : 1);
   }
 
   const getCTA = (e) => {
-    let currencyEl = {
-      name: currency.name,
-      rate: currency.rate,
-      inverseRate: currency.inverseRate,
-      quantity: parseInt(quantity),
-    }
-    dispatch(buyCTA(currencyEl));
+    dispatch(buyCTA(currency.name, currency.rate, currency.inverseRate, quantity));
   }
+
+
   return(
     <div className="currency-row">
-      <div className="name">{currency.name}</div>
-      <div className="rate">{currency.rate}</div>
-      <div className="inverse-rate">{currency.inverseRate}</div>
-      <div className="cta">
+      <div className="cell name">{currency.name}</div>
+      <div className="cell rate">{currency.rate}</div>
+      <div className="cell inverse-rate">{currency.inverseRate}</div>
+      <div className="cell cta">
         <button onClick={getCTA} type="button" className="buy-cta">Acheter</button>
         <input type="number" className="input-number" value={quantity} onChange={changeQuantity}/>
       </div>

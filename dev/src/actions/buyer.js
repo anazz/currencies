@@ -13,9 +13,12 @@ export const showBox = (statusModal) => ({
     statusModal: statusModal,
 });
 
-export const buyCTA = (currency) => ({
+export const buyCTA = (name, rate, inverseRate, quantity) => ({
     type: BUY_CTA,
-    currency: currency,
+    name: name,
+    rate: rate,
+    inverseRate: inverseRate,
+    quantity: quantity,
 });
 
 export const sellCTA = (name, quantity) => ({
